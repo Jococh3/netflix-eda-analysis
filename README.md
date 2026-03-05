@@ -20,7 +20,24 @@ Python
 Pandas  
 Seaborn  
 Matplotlib  
-Plotly  
+Plotly
+
+## Key Visualizations
+
+### Movies vs TV Shows
+![Movies vs TV Shows](images/charts/movies_vs_tvshows.png)
+
+### Netflix Content Growth
+![Content Growth](images/charts/content_growth_by_type.png)
+
+### Content Growth Heatmap
+![Heatmap](images/charts/content_growth_heatmap.png)
+
+### Top Countries
+![Countries](images/charts/top_countries.png)
+
+### Top Genres
+![Genres](images/charts/top_genres.png)
 
 ## Project Structure
 netflix-eda-analysis/
