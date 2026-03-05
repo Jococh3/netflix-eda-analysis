@@ -22,6 +22,18 @@ Seaborn
 Matplotlib  
 Plotly
 
+## Project Structure
+netflix-eda-analysis/
+│
+├── notebook/
+│   netflix_eda.ipynb
+├── data/
+│   netflix_titles.csv
+├── images/
+│   charts/
+├── README.md
+└── requirements.txt
+
 ## Key Visualizations
 
 ### Movies vs TV Shows
@@ -38,15 +50,3 @@ Plotly
 
 ### Top Genres
 ![Genres](images/charts/top_genres.png)
-
-## Project Structure
-netflix-eda-analysis/
-│
-├── notebook/
-│   netflix_eda.ipynb
-├── data/
-│   netflix_titles.csv
-├── images/
-│   charts/
-├── README.md
-└── requirements.txt
